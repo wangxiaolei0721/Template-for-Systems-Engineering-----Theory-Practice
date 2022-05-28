@@ -12,5 +12,5 @@
 
 ## 新模板已经提交给期刊编辑部.
 
-## latex编译环境纷繁复杂, 如模板存在问题请与我联系: wangxiaolei0721@nuaa,edu.cn
+## latex编译环境纷繁复杂, 如模板存在问题请与我联系: wangxiaolei0721@nuaa.edu.cn
 
